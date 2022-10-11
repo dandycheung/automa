@@ -47,7 +47,7 @@
     "@babel/core": "7.15.5",
     "@babel/eslint-parser": "7.15.7",
     "@babel/plugin-proposal-class-properties": "7.14.5",
-    "@babel/preset-env": "7.15.6",
+    "@babel/preset-env": "7.19.4",
     "@intlify/vue-i18n-loader": "^4.0.1",
     "@vue/compiler-sfc": "3.2.19",
     "archiver": "^5.3.0",
